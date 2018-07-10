@@ -1,0 +1,200 @@
+code;label-en_GB;attribute;sort_order
+activity_hike;Hike;activity;0
+activity_outdoor;Outdoor;activity;1
+activity_running;Running;activity;2
+activity_warmup;Warmup;activity;3
+activity_yoga;Yoga;activity;4
+activity_recreation;Recreation;activity;5
+activity_lounge;Lounge;activity;6
+activity_gym;Gym;activity;7
+activity_climbing;Climbing;activity;8
+activity_crosstraining;Crosstraining;activity;9
+activity_post_workout;Post-workout;activity;10
+activity_cycling;Cycling;activity;11
+activity_athletic;Athletic;activity;12
+activity_sports;Sports;activity;13
+activity_hiking;Hiking;activity;14
+activity_overnight;Overnight;activity;15
+activity_school;School;activity;16
+activity_trail;Trail;activity;17
+activity_travel;Travel;activity;18
+activity_urban;Urban;activity;19
+category_gear_cardio;Cardio;category_gear;0
+category_gear_electronic;Electronic;category_gear;1
+category_gear_exercise;Exercise;category_gear;2
+category_gear_fashion;Fashion;category_gear;3
+category_gear_hydration;Hydration;category_gear;4
+category_gear_timepiece;Timepiece;category_gear;5
+climate_all_weather;All-Weather;climate;0
+climate_cold;Cold;climate;1
+climate_cool;Cool;climate;2
+climate_indoor;Indoor;climate;3
+climate_mild;Mild;climate;4
+climate_rainy;Rainy;climate;5
+climate_spring;Spring;climate;6
+climate_warm;Warm;climate;7
+climate_windy;Windy;climate;8
+climate_wintry;Wintry;climate;9
+climate_hot;Hot;climate;10
+collar_n_a;N/A;collar;0
+collar_question_zip;? zip;collar;1
+collar_boat_neck;Boat Neck;collar;2
+collar_crew;Crew;collar;3
+collar_full_zip;Full zip;collar;4
+collar_v_neck;V-neck;collar;5
+collar_ballet;Ballet;collar;6
+collar_scoop;Scoop;collar;7
+collar_high_collar;High Collar;collar;8
+collar_stand_collar;Stand Collar;collar;9
+collar_roll_neck;Roll Neck;collar;10
+collar_square_neck;Square Neck;collar;11
+color_black;Black;color;0
+color_blue;Blue;color;1
+color_brown;Brown;color;2
+color_gray;Gray;color;3
+color_green;Green;color;4
+color_lavender;Lavender;color;5
+color_multi;Multi;color;6
+color_orange;Orange;color;7
+color_purple;Purple;color;8
+color_red;Red;color;9
+color_white;White;color;10
+color_yellow;Yellow;color;11
+features_bags_wheeled;Wheeled;features_bags;1
+features_bags_hydration_pocket;Hydration Pocket;features_bags;2
+features_bags_audio_pocket;Audio Pocket;features_bags;3
+features_bags_flapover;Flapover;features_bags;4
+features_bags_waterproof;Waterproof;features_bags;5
+features_bags_lightweight;Lightweight;features_bags;6
+features_bags_tsa_approved;TSA Approved;features_bags;7
+features_bags_reflective;Reflective;features_bags;8
+features_bags_laptop_sleeve;Laptop Sleeve;features_bags;9
+features_bags_lockable;Lockable;features_bags;10
+format_download;Download;format;0
+format_dvd;DVD;format;1
+gender_men;Men;gender;0
+gender_women;Women;gender;1
+gender_boys;Boys;gender;2
+gender_girls;Girls;gender;3
+gender_unisex;Unisex;gender;4
+material_burlap;Burlap;material;0
+material_cocona_reg__performance_fabric;"Cocona&reg; performance fabric";material;0
+material_canvas;Canvas;material;1
+material_cotton;Cotton;material;2
+material_fleece;Fleece;material;2
+material_faux_leather;Faux Leather;material;3
+material_hemp;Hemp;material;3
+material_jersey;Jersey;material;4
+material_leather;Leather;material;4
+material_lumatech_trade;LumaTech&trade;material;5
+material_mesh;Mesh;material;5
+material_lycra_reg;Lycra&reg;material;6
+material_nylon;Nylon;material;6
+material_microfiber;Microfiber;material;7
+material_polyester;Polyester;material;7
+material_rayon;Rayon;material;8
+material_spandex;Spandex;material;8
+material_heattec_reg;HeatTec&reg;material;9
+material_ripstop;Ripstop;material;9
+material_evercool_trade;EverCool&trade;material;10
+material_suede;Suede;material;10
+material_foam;Foam;material;11
+material_organic_cotton;Organic Cotton;material;11
+material_metal;Metal;material;12
+material_tencel;TENCEL;material;12
+material_cooltech_trade;CoolTech&trade;material;13
+material_plastic;Plastic;material;13
+material_khaki;Khaki;material;14
+material_rubber;Rubber;material;14
+material_linen;Linen;material;15
+material_synthetic;Synthetic;material;15
+material_stainless_steel;Stainless Steel;material;16
+material_wool;Wool;material;16
+material_silicone;Silicone;material;17
+material_terry;Terry;material;17
+pattern_checked;Checked;pattern;1
+pattern_color_blocked;Color-Blocked;pattern;2
+pattern_graphic_print;Graphic Print;pattern;3
+pattern_solid;Solid;pattern;4
+pattern_solid_highlight;Solid-Highlight;pattern;5
+pattern_striped;Striped;pattern;6
+pattern_camo;Camo;pattern;7
+pattern_geometric;Geometric;pattern;8
+size_55_cm;55 cm;size;0
+size_xs;XS;size;1
+size_65_cm;65 cm;size;2
+size_s;S;size;3
+size_75_cm;75 cm;size;4
+size_m;M;size;5
+size_6_foot;6 foot;size;6
+size_l;L;size;7
+size_8_foot;8 foot;size;8
+size_xl;XL;size;9
+size_10_foot;10 foot;size;10
+size_28;28;size;11
+size_29;29;size;12
+size_30;30;size;13
+size_31;31;size;14
+size_32;32;size;15
+size_33;33;size;16
+size_34;34;size;17
+size_36;36;size;18
+size_38;38;size;19
+sleeve_sleeve;Sleeve;sleeve;0
+sleeve_long_sleeve;Long-Sleeve;sleeve;1
+sleeve_short_sleeve;Short-Sleeve;sleeve;2
+sleeve_sleeveless;Sleeveless;sleeve;3
+sleeve_tank;Tank;sleeve;4
+sleeve_strap;Strap;sleeve;5
+strap_bags_adjustable;Adjustable;strap_bags;0
+strap_bags_cross_body;Cross Body;strap_bags;1
+strap_bags_detachable;Detachable;strap_bags;2
+strap_bags_double;Double;strap_bags;3
+strap_bags_padded;Padded;strap_bags;4
+strap_bags_shoulder;Shoulder;strap_bags;5
+strap_bags_single;Single;strap_bags;6
+strap_bags_telescoping;Telescoping;strap_bags;7
+style_bags_backpack;Backpack;style_bags;0
+style_bags_luggage;Luggage;style_bags;1
+style_bags_duffel;Duffel;style_bags;2
+style_bags_messenger;Messenger;style_bags;3
+style_bags_laptop;Laptop;style_bags;4
+style_bags_exercise;Exercise;style_bags;5
+style_bags_tote;Tote;style_bags;6
+style_bottom_base_layer;Base Layer;style_bottom;0
+style_bottom_basic;Basic;style_bottom;1
+style_bottom_capri;Capri;style_bottom;2
+style_bottom_compression;Compression;style_bottom;3
+style_bottom_leggings;Leggings;style_bottom;4
+style_bottom_parachute;Parachute;style_bottom;5
+style_bottom_skort;Skort;style_bottom;6
+style_bottom_snug;Snug;style_bottom;7
+style_bottom_sweatpants;Sweatpants;style_bottom;8
+style_bottom_tights;Tights;style_bottom;9
+style_bottom_track_pants;Track Pants;style_bottom;10
+style_bottom_workout_pants;Workout Pants;style_bottom;11
+style_general_insulated;Insulated;style_general;0
+style_general_jacket;Jacket;style_general;1
+style_general_vest;Vest;style_general;2
+style_general_lightweight;Lightweight;style_general;3
+style_general_hooded;Hooded;style_general;4
+style_general_heavy_duty;Heavy Duty;style_general;5
+style_general_rain_coat;Rain Coat;style_general;6
+style_general_hard_shell;Hard Shell;style_general;7
+style_general_soft_shell;Soft Shell;style_general;8
+style_general_windbreaker;Windbreaker;style_general;9
+style_general__frac12__zip;"&frac12; zip";style_general;10
+style_general__frac14__zip;"&frac14; zip";style_general;11
+style_general_full_zip;Full Zip;style_general;12
+style_general_reversible;Reversible;style_general;13
+style_general_bra;Bra;style_general;14
+style_general_sweatshirt;Sweatshirt;style_general;16
+style_general_polo;Polo;style_general;17
+style_general_tank;Tank;style_general;18
+style_general_tee;Tee;style_general;19
+style_general_pullover;Pullover;style_general;20
+style_general_hoodie;Hoodie;style_general;21
+style_general_cardigan;Cardigan;style_general;22
+style_general_henley;Henley;style_general;23
+style_general_tunic;Tunic;style_general;24
+style_general_camisole;Camisole;style_general;25
